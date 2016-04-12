@@ -1,0 +1,28 @@
+name: ChristopherWeddle
+favicon: null
+layout_spectrum: 0.23165325936861336
+typography_spectrum: 0.5799714906606823
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9465123903937638
+  lightness: 0.6029802446719259
+  saturation: 0.7429457751568407
+  rhythmicContrast: 0.2871987360995263
+purpose: []
