@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Actor]]></title>
-        <description><![CDATA[Actor]]></description>
+        <title><![CDATA[Christopher Weddle]]></title>
+        <description><![CDATA[Christopher Weddle]]></description>
         <link>https://thegrid.ai/christopherweddle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 04:04:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 05:23:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/christopherweddle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/547d942d-4658-485c-9be6-efc56dab1def.jpg">]]></description>
+            <link>https://thegrid.ai/christopherweddle/bc13dbfd-77c4-4b3e-b15c-d81f6e2a73c2/index.html</link>
+            <guid isPermaLink="false">bc13dbfd-77c4-4b3e-b15c-d81f6e2a73c2</guid>
+            <pubDate>Wed, 13 Apr 2016 05:22:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5149df13-4cd7-42de-acc3-816f0dcd0389.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/christopherweddle/screen-shot-from-an-unplanned-awakening-with-lara-mummert-as/index.html</link>
             <guid isPermaLink="false">88202d1a-a9bd-40fe-8768-a7e08fa64707</guid>
             <pubDate>Wed, 13 Apr 2016 04:03:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/547d942d-4658-485c-9be6-efc56dab1def.jpg">]]></description>
-            <link>https://thegrid.ai/christopherweddle/bc13dbfd-77c4-4b3e-b15c-d81f6e2a73c2/index.html</link>
-            <guid isPermaLink="false">bc13dbfd-77c4-4b3e-b15c-d81f6e2a73c2</guid>
-            <pubDate>Tue, 12 Apr 2016 04:41:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
