@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Christopher Weddle]]></title>
         <description><![CDATA[Christopher Weddle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/christopherweddle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 02:07:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 03:16:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/christopherweddle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3d76a12-9421-4e1a-bfd4-8c4aae8e6932.jpg">]]></description>
+            <link>https://thegrid.ai/christopherweddle/7cd59154-7e29-4d7f-a02a-34ca625849ad/index.html</link>
+            <guid isPermaLink="false">7cd59154-7e29-4d7f-a02a-34ca625849ad</guid>
+            <pubDate>Thu, 14 Apr 2016 03:15:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be0a8c2c-2c3e-47d3-a037-319d9d77da37.jpg">]]></description>
-            <link>undefined83075687-b693-4411-83cb-ae547c671a7c/index.html</link>
+            <link>https://thegrid.ai/christopherweddle/83075687-b693-4411-83cb-ae547c671a7c/index.html</link>
             <guid isPermaLink="false">83075687-b693-4411-83cb-ae547c671a7c</guid>
             <pubDate>Thu, 14 Apr 2016 02:06:17 GMT</pubDate>
         </item>
